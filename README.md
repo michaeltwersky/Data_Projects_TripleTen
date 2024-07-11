@@ -10,8 +10,8 @@ All of the projects I worked on during the TripleTen Data Science bootcamp.
 
 | Sprint | Topic | Description |
 | :---------------: | :---------------: |--------------- |
-| [1](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%201%20-%20Working%20with%20Data%20in%20Python>) | Basic Python | 
-| [2](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%202%20-%20Exploratory%20Data%20Analysis%20(EDA)>) | Exploratory Data Analysis | 
+| [1](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%201%20-%20Working%20with%20Data%20in%20Python>) | Basic Python | Analyzed music preferances of users across different cities to find listening trends and patterns. Performed data manipulation in Python.
+| [2](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%202%20-%20Exploratory%20Data%20Analysis%20(EDA)>) | Exploratory Data Analysis | Pinpointed grocery shopping trends and patterns using EDA to propose marketing and product placement strategies.
 | [3](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%203%20-%20Statistical%20Data%20Analysis>) | Statistical Data Analysis | 
 | [4](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%203%20-%20Statistical%20Data%20Analysis>) | Software Development Tools | 
 | [5](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%205%20-%20Integrated%20Project%201>) | Integrated Project 1 | 
