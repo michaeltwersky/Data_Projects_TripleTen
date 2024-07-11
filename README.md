@@ -6,7 +6,7 @@ All of the projects I worked on during the TripleTen Data Science bootcamp.
 - Machine learning 
 
 
-| Sprint | Topic | Description
+| Sprint | Topic | Description |
 | :---------------: | :---------------: |--------------- |:---------------:
 | [1](<Sprint 1 - Working with Data in Python/README.md>) | Final Project | Predicting churn rates for a telecommunications company | v2 notebook in progress
 | [2](<Sprint 15 - Computer Vision/README.md>) | Computer Vision | Deploying computer vision for a supermarket chain | -
