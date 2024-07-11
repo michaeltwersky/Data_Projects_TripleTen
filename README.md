@@ -13,7 +13,7 @@ All of the projects I worked on during the TripleTen Data Science bootcamp.
 | [1](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2001%20-%20Working%20with%20Data%20in%20Python>) | Basic Python | Analyzed music preferances of users across different cities to find listening trends and patterns. Performed data manipulation in Python.
 | [2](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis%20(EDA)>) | Exploratory Data Analysis | Pinpointed grocery shopping trends and patterns using EDA to propose marketing and product placement strategies.
 | [3](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2003%20-%20Statistical%20Data%20Analysis>) | Statistical Data Analysis | 
-| [4](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2004%20-%20Statistical%20Data%20Analysis>) | Software Development Tools | 
+| [4](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2004%20-%20Software%20Development%20Tools>) | Software Development Tools | 
 | [5](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2005%20-%20Integrated%20Project%201>) | Integrated Project 1 | 
 | [6](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2006%20-%20Data%20Collection%20and%20Storage%20(SQL)>) | Data Collection and Storage (SQL) | 
 | [7](<https://github.com/michaeltwersky/Data_Projects_TripleTen/tree/main/Sprint%2007%20-%20Introduction%20to%20ML>) | Introduction to Machine Learning | 
