@@ -51,3 +51,5 @@ The data is spread across five tables:
 ## Examples of Charts
 
 ![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis%20(EDA)/Images/Image%201.png)
+
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2002%20-%20Exploratory%20Data%20Analysis%20(EDA)/Images/Image%202.png)
