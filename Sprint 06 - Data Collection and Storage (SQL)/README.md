@@ -52,7 +52,7 @@ Contents of the datasets:
   - BeautifulSoup
   - Numpy
   - Seaborn
-  - Matplotlib
+  - Matplotlib 
   - Scipy
 
 ## Examples of Charts
