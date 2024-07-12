@@ -53,5 +53,4 @@ Contents of the dataset `Churn`:
 
 ![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2008%20-%20Supervised%20Learning/Images/Image%204.png)
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2008%20-%20Supervised%20Learning/Images/Image%205.png)
 
