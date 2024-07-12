@@ -31,6 +31,6 @@ Michael Twersky
 
 ## Examples of Charts
 
-![alt text]([https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2003%20-%20Statistical%20Data%20Analysis/Images/Image%201.png](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2004%20-%20Software%20Development%20Tools/Images/Image%203.png))
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2004%20-%20Software%20Development%20Tools/Images/Image%203.png)
 
-![alt text]([https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2003%20-%20Statistical%20Data%20Analysis/Images/Image%201.png](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2004%20-%20Software%20Development%20Tools/Images/Image%204.png))
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2004%20-%20Software%20Development%20Tools/Images/Image%204.png)
