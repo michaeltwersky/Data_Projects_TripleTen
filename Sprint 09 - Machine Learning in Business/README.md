@@ -33,7 +33,6 @@ Spread across three files, each representing a region:
   - SciKitLearn
   - Seaborn
   - Numpy
-  - SciKitLearn
 
 ## Examples of Charts
 
