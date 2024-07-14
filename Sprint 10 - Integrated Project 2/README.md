@@ -36,7 +36,7 @@ The rougher concentrate undergoes two stages of purification. After purification
 
 ![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%205.jpg)
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%206.jpeg)
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%206.jpg)
 
 ## Description of the Data
 
@@ -75,8 +75,8 @@ Spread across three tables, the data is as a follows:
 
 ## Examples of Charts
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%201.jpeg)
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%201.png)
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%202.jpeg)
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%202.png)
 
-![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%203.jpeg)
+![alt text](https://github.com/michaeltwersky/Data_Projects_TripleTen/blob/main/Sprint%2010%20-%20Integrated%20Project%202/Images/Image%203.png)
